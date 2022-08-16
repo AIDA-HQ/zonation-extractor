@@ -1,0 +1,2 @@
+pathlib==1.0.1
+tabula-py==2.5.0
